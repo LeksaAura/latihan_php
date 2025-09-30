@@ -1,7 +1,4 @@
 <?php
-for ($i = 100; $i <= 1000; $i++) {
-    echo $i . "<br>";
-}
 
 echo "<br><b>Logika perulangan dan kontrol banyak digunakan untuk kasus:</b><br>";
 
