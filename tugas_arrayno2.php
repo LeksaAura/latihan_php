@@ -14,3 +14,4 @@ for ($i = 0; $i < count($buah); $i++) {
     $total += $buah[$i][1] * $buah[$i][2];
 }
 echo "Total nilai semua stok buah: Rp" . number_format($total, 0, ',', '.') . "<br>";
+?>
